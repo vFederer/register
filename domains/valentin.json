@@ -1,0 +1,11 @@
+{
+  "description": "Valentin Federer's website",
+  "repo": "https://github.com/vfederer/vfederer.github.io",
+  "owner": {
+    "username": "vfederer",
+    "email": "federer.valentin@gmail.com"
+  },
+  "record": {
+    "CNAME": "vfederer.github.io"
+  }
+}
